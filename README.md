@@ -1,4 +1,4 @@
-### Hello there! I'm Timo, and this is jackass! 
+### Hello there! I'm Timo, and this is Jackass! 
 No, no it is not 😥, but still pretty swell! 😀 <br />
 Welcome to my GitHub. <br /> 
 I'm currently a student at Changemakes Educations Stockholm, Frontend- and app development.  
