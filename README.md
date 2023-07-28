@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there! I'm Timo, and this is jackass! 
+No, no it is not 😥, but still pretty swell! 😀 <br />
+Welcome to my GitHub. <br /> 
+I'm currently a student at Changemakes Educations Stockholm, Frontend- and app development.  
+<br />
 
-<!--
-**JTKsson/JTKsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on becoming an amazing developer (or at least a decent one...).
+- 🌱 I’m currently learning/improving React, gonna get into React Native in the near future.
+- 📫 How to reach me: email jan.timothy.karlsson@gmail.com || LinkedIn in bio. 
+- ⚡ Fun fact: I vary the writing style of my lower case T between "t" and "+"
+
+- 🤘 Skills: [React, Javascript, NextJS, Supabase, HTML, CSS, Git, Vit, Vercel]
