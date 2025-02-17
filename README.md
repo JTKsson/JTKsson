@@ -7,8 +7,9 @@
 
 
 - 🔭 I’m currently working on becoming an amazing developer (or at least a decent one...).
-- 🌱 I’m currently learning/improving React, gonna get into React Native in the near future.
+- 🌱 I’m currently learning/improving my backend skills as well as creating fullstack solution, <br/>where I build backend in C# and frontend in React.
+- 💭 Skills I aspire to learn: React Native, creating my own physical database system.
 - 📫 How to reach me: email jan.timothy.karlsson@gmail.com || LinkedIn in bio. 
 - ⚡ Fun fact: I vary the writing style of my lower case T between "t" and "+"
 
-- 🤘 Skills: [React, Javascript, NextJS, Supabase, HTML, CSS, Git, Vit, Vercel, C#]
+- 🤘 Skills: [React, Javascript, NextJS, Supabase, HTML, CSS, Git, Vite, Vercel, C#, .Net]
